@@ -2,4 +2,4 @@
 
 number=15
 #Print 1 if the number is odd, otherwise print 0.
-print(number%2)
+print(number%2 )
